@@ -32,7 +32,7 @@ Cada camada possui uma responsabilidade específica:
 
 ---
 
-## 📚 Funcionalidades
+## Funcionalidades
 
 ### Livros
 
@@ -60,7 +60,7 @@ Cada camada possui uma responsabilidade específica:
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 Clone o projeto:
 
