@@ -1,8 +1,8 @@
-# 📚 Biblioteca API
+#  Biblioteca API
 
 API REST desenvolvida em **Java 17** com **Spring Boot**, criada para praticar arquitetura em camadas, JPA, PostgreSQL e regras de negócio em um sistema de biblioteca.
 
-## 🚀 Tecnologias
+##  Tecnologias
 
 - Java 17
 - Spring Boot
@@ -12,7 +12,7 @@ API REST desenvolvida em **Java 17** com **Spring Boot**, criada para praticar a
 - Maven
 - Hibernate
 
-## 🧱 Arquitetura
+##  Arquitetura
 
 ```text
 Controller
